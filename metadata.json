@@ -1,0 +1,8 @@
+{
+  "name": "Remix DROPZONE 84 — Tactical 3D Battle Royale",
+  "description": "High-frame-rate 3D tactical battle royale shooter with multi-biome maps, realistic ballistics, TPP/FPP perspectives, and full graphics and control customization.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
